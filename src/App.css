@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+
+body {
+  padding: 20px 60px;
+  height: 100vh;
+}
+
+* {
+  box-sizing: border-box;
+}
